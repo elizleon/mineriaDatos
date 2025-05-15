@@ -9,3 +9,5 @@ Proceso de aplicar preprocesamiento: detección de outliers, eliminación de dup
 2. Enlace y acceso a github donde se encuentre los archivos con el código del proyecto
 3. Conjuntos de Datos (enlace a github o adjunto a esta entrega). Conjunto original y conjunto preprocesado.
 4. Presentación en power point u otra herramienta como apoyo para la  presentación oral de 7 minutos del proyecto
+
+ENTREGA: Entregar por classroom. Si classroom esta caído enviar el enlace a github donde esta el proyecto al correo elizleon@gmail.com con copia a eleonguz@unal.edu.co
